@@ -1,7 +1,7 @@
 body {
     margin: 0px;
     font-family: 'Dosis';font-size: 22px;
-    background-color: black;
+    background-image: url("wallpaper.jpeg");
     text-align: center;
     color: white;
     
@@ -9,4 +9,8 @@ body {
 .logo{
     position: absolute; left: auto; top: 0;
     color: white;
+}
+a {
+    color: white;
+    text-decoration-color: blue;
 }
